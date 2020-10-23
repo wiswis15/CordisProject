@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation='BackendConfig.xsd'>
+    <server>
+        <address>127.0.0.1</address>
+        <port>8080</port>
+        <path>JsonServices/com.cordis.explorer.connectors.MachinePart.MachinePartConnector</path>
+    </server>
+    <variable>
+        <controllername>BeckhoffOPC</controllername>
+        <machinename>Machine</machinename>
+        <machinepart>ObserverTesterA</machinepart>
+        <!-- Observername: BoolVar, FloatVar, EnumVar, Int32Var, StringVar or Int64Var -->
+        <observername>FloatVar</observername>
+        <interval>2000</interval>
+    </variable>
+    <variable>
+        <controllername>BeckhoffOPC</controllername>
+        <machinename>Machine</machinename>
+        <machinepart>ObserverTesterB</machinepart>
+        <!-- Observername: BoolVar, FloatVar, EnumVar, Int32Var, StringVar or Int64Var -->
+        <observername>BoolVar</observername>
+        <interval>2500</interval>
+    </variable>
+</configuration>

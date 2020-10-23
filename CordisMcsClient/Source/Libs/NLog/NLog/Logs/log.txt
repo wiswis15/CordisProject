@@ -1,0 +1,9 @@
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 10:37:09.758 ;  Info ;  -1;IsoTcp: failed to open Socket connection to 192.168.32.101.1.1 Details: 192.168.32.101.1.1
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 10:49:34.428 ; Trace ;  -1;Trace.StartUp: Scada messages processing disabled.
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 10:49:34.620 ;  Info ;  -1;Error UnknownError received reading var: DB1.DBX126.0 Details: DB1.DBX126.0  B32
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 10:49:34.655 ; Trace ;  -1;Trace.StartUp: This PlatformExplorer version was designed to work with MCP_S7_20140620_1300, but VersionInfo not implemented was found on the PLC!
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 10:49:40.703 ; Trace ;  -1;Trace.StartUp: Reading Repositories took 6,06s.
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 11:05:38.145 ; Trace ;  -1;Trace.StartUp: Scada messages processing disabled.
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 11:05:38.187 ;  Info ;  -1;Error UnknownError received reading var: DB1.DBX126.0 Details: DB1.DBX126.0  B32
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 11:05:38.202 ; Trace ;  -1;Trace.StartUp: This PlatformExplorer version was designed to work with MCP_S7_20140620_1300, but VersionInfo not implemented was found on the PLC!
+Cordis.Mcp.Generic.Services.MessageManager.CMessageManager ; 2015-06-23 11:05:44.147 ; Trace ;  -1;Trace.StartUp: Reading Repositories took 5,94s.

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs='http://www.w3.org/2001/XMLSchema'>
+  <xs:element name="configuration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="server"/>
+        <xs:element ref="variable" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="server">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="address" type="xs:string"/>
+        <xs:element name="port" type="xs:integer"/>
+        <xs:element name="path" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="variable">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="controllername" type="xs:string"/>
+        <xs:element name="machinename" type="xs:string"/>
+        <xs:element name="machinepart" type="xs:string"/>
+        <xs:element name="observername" type="xs:string"/>
+        <xs:element name="interval" type="xs:integer"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation='BackendConfig.xsd'>
+    <server>
+        <address>123.45.67.89</address>
+        <port>321</port>
+        <path>Test/path.with.dots/</path>
+    </server>
+    <variable>
+        <controllername>TestControllerName</controllername>
+        <machinename>TestMachineName</machinename>
+        <machinepart>TestMachinePart</machinepart>
+        <observername>TestObserverName</observername>
+        <interval>12345</interval>
+    </variable>
+</configuration>

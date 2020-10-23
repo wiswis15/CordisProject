@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCDBackend", "MCDBackend\MCDBackend.csproj", "{2A2F6416-6AD5-4112-A4D5-99A10C0754E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCDClient", "MCDClient\MCDClient.csproj", "{0D13A874-AD68-4B9B-B1A2-6D084ABA4AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCSServer", "MCSServer\MCSServer.csproj", "{1C5BCFDD-E831-40D3-BEE0-6FE671896585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2F6416-6AD5-4112-A4D5-99A10C0754E1}.Debug|x86.ActiveCfg = Debug|x86
+		{2A2F6416-6AD5-4112-A4D5-99A10C0754E1}.Debug|x86.Build.0 = Debug|x86
+		{2A2F6416-6AD5-4112-A4D5-99A10C0754E1}.Release|x86.ActiveCfg = Release|x86
+		{2A2F6416-6AD5-4112-A4D5-99A10C0754E1}.Release|x86.Build.0 = Release|x86
+		{0D13A874-AD68-4B9B-B1A2-6D084ABA4AF7}.Debug|x86.ActiveCfg = Debug|x86
+		{0D13A874-AD68-4B9B-B1A2-6D084ABA4AF7}.Debug|x86.Build.0 = Debug|x86
+		{0D13A874-AD68-4B9B-B1A2-6D084ABA4AF7}.Release|x86.ActiveCfg = Release|x86
+		{0D13A874-AD68-4B9B-B1A2-6D084ABA4AF7}.Release|x86.Build.0 = Release|x86
+		{1C5BCFDD-E831-40D3-BEE0-6FE671896585}.Debug|x86.ActiveCfg = Debug|x86
+		{1C5BCFDD-E831-40D3-BEE0-6FE671896585}.Debug|x86.Build.0 = Debug|x86
+		{1C5BCFDD-E831-40D3-BEE0-6FE671896585}.Release|x86.ActiveCfg = Release|x86
+		{1C5BCFDD-E831-40D3-BEE0-6FE671896585}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
