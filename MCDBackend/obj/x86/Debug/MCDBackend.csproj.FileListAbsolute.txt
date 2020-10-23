@@ -1,0 +1,2 @@
+D:\to be removed\CordisProject\MCDBackend\obj\x86\Debug\MCDBackend.csprojAssemblyReference.cache
+D:\to be removed\CordisProject\MCDBackend\obj\x86\Debug\MCDBackend.exe.config

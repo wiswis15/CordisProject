@@ -1,0 +1,9 @@
+D:\to be removed\CordisProject\MCSServer\bin\Debug\MCSServer.exe.config
+D:\to be removed\CordisProject\MCSServer\bin\Debug\MCSServer.exe
+D:\to be removed\CordisProject\MCSServer\bin\Debug\MCSServer.pdb
+D:\to be removed\CordisProject\MCSServer\bin\Debug\Newtonsoft.Json.dll
+D:\to be removed\CordisProject\MCSServer\bin\Debug\Newtonsoft.Json.xml
+D:\to be removed\CordisProject\MCSServer\obj\x86\Debug\MCSServer.csprojAssemblyReference.cache
+D:\to be removed\CordisProject\MCSServer\obj\x86\Debug\MCSServer.csproj.CopyComplete
+D:\to be removed\CordisProject\MCSServer\obj\x86\Debug\MCSServer.exe
+D:\to be removed\CordisProject\MCSServer\obj\x86\Debug\MCSServer.pdb

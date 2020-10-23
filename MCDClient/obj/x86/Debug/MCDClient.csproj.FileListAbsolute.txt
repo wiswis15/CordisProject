@@ -1,0 +1,8 @@
+D:\to be removed\CordisProject\MCDClient\bin\Debug\MCDClient.exe.config
+D:\to be removed\CordisProject\MCDClient\bin\Debug\MCDClient.exe
+D:\to be removed\CordisProject\MCDClient\bin\Debug\MCDClient.pdb
+D:\to be removed\CordisProject\MCDClient\bin\Debug\Newtonsoft.Json.dll
+D:\to be removed\CordisProject\MCDClient\bin\Debug\Newtonsoft.Json.xml
+D:\to be removed\CordisProject\MCDClient\obj\x86\Debug\MCDClient.csproj.CopyComplete
+D:\to be removed\CordisProject\MCDClient\obj\x86\Debug\MCDClient.exe
+D:\to be removed\CordisProject\MCDClient\obj\x86\Debug\MCDClient.pdb

@@ -2,5 +2,4 @@
 .vs/
 # All bin folders
 bin/
-#All obj folders
-obj/
+

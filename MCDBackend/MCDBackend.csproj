@@ -49,13 +49,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CordisMdsiClientWrapper">
-      <HintPath>..\..\CordisMcsClient\Source\CordisMdsiClientWrapper\obj\Debug\CordisMdsiClientWrapper.dll</HintPath>
+      <HintPath>..\CordisMcsClient\Source\CordisMdsiClientWrapper\obj\Debug\CordisMdsiClientWrapper.dll</HintPath>
     </Reference>
     <Reference Include="CordisMdsiCsharpClientLibrary">
-      <HintPath>..\..\CordisMcsClient\Source\Libs\Festa\CordisMdsiCsharpClientLibrary.dll</HintPath>
+      <HintPath>..\CordisMcsClient\Source\Libs\Festa\CordisMdsiCsharpClientLibrary.dll</HintPath>
     </Reference>
     <Reference Include="FestaJsonConnectorSupportCsApp">
-      <HintPath>..\..\CordisMcsClient\Source\Libs\Festa\FestaJsonConnectorSupportCsApp.dll</HintPath>
+      <HintPath>..\CordisMcsClient\Source\Libs\Festa\FestaJsonConnectorSupportCsApp.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf, Version=3.13.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.Protobuf.3.13.0\lib\net45\Google.Protobuf.dll</HintPath>
