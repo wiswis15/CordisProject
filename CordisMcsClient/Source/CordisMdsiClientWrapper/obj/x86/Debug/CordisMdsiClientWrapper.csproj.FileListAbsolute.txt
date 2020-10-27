@@ -1,0 +1,19 @@
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.dll
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.pdb
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.dll
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.pdb
+D:\Tools\MCS client & plugin\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.dll
+D:\Tools\MCS client & plugin\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.pdb
+D:\Tools\MCS client & plugin\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.csprojAssemblyReference.cache
+D:\Tools\MCS client & plugin\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.csproj.CopyComplete
+D:\Tools\MCS client & plugin\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.dll
+D:\Tools\MCS client & plugin\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.pdb
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Delivery\Bin\Debug\CordisMdsiClientWrapper.dll
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Delivery\Bin\Debug\CordisMdsiClientWrapper.pdb
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.csproj.CopyComplete
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.dll
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.pdb
+C:\_Workarea\_SVN\MCS Client - PlugIn\MCS Client\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.csprojAssemblyReference.cache
+D:\Topic\CordisMcsClient\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.csprojAssemblyReference.cache
+D:\Topic\CordisMcsClient\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.dll
+D:\Topic\CordisMcsClient\Source\CordisMdsiClientWrapper\obj\x86\Debug\CordisMdsiClientWrapper.pdb

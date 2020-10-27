@@ -1,0 +1,4 @@
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.dll
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Delivery\Bin\Debug\CordisMdsiClientWrapper.pdb
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\Debug\CordisMdsiClientWrapper.dll
+D:\Nick\Kurt Jespers\Cordis\Osram c-quence\C-Quence\Releases\Bosch\10. Tools\EnSoTestGUI\Source\CordisMdsiClientWrapper\obj\Debug\CordisMdsiClientWrapper.pdb
