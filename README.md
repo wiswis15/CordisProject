@@ -4,16 +4,16 @@ The aim is to have a very nice dashboard that pleases the client CORDIS. The das
 
 ## Steps
 ### Setting up mysql
-1-Download mysql, make  sure the server is running and listening to port 3306, username=root, password = root\
-2-connect to my SQL server (example from the command line), and create an empty database "cordisvariabledb"\
-3- in the main directory, there is a file "cordisvariabledb_empty". It contains the structure of the database.\
-Load it into the newly constructed database using the command:\
+1-Download mysql, make  sure the server is running and listening to port 3306, username=root, password = root
+2-connect to my SQL server (example from the command line), and create an empty database "cordisvariabledb"
+3- in the main directory, there is a file "cordisvariabledb_empty". It contains the structure of the database.
+Load it into the newly constructed database using the command:
 mysql -u root -p cordisvariabledb < cordisvariabledb_empty.sql
 
-At this point, cordisvariabledb shall have all the structure described in the design socument. \
-example: use cordisvariabledb;\
-show tables;\
--->  you shall have the following tables: partvalue,| partvariable ,valuetype\
+At this point, cordisvariabledb shall have all the structure described in the design socument. 
+example: use cordisvariabledb;
+show tables;
+-->  you shall have the following tables: partvalue, partvariable ,valuetype
 
 ### Building the Solution
 Using Visual studio, open the ClientServerApplication.sln \
