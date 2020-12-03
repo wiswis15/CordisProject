@@ -8,7 +8,7 @@ The aim is to have a very nice dashboard that pleases the client CORDIS. The das
 2-connect to my SQL server (example from the command line), and create an empty database "cordisvariabledb"\
 3- in the main directory, there is a file "cordisvariabledb_empty". It contains the structure of the database.\
 Load it into the newly constructed database using the command:\
-mysql -u root -p cordisvariabledb < cordisvariabledb_empty.sql\
+mysql -u root -p cordisvariabledb < cordisvariabledb_empty.sql
 
 At this point, cordisvariabledb shall have all the structure described in the design socument. \
 example: use cordisvariabledb;\
