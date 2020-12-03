@@ -3,3 +3,8 @@
 # All bin folders
 bin/
 
+#all debug files
+MCDBackend/obj/x86/
+MCDClient/obj/x86/
+MCSServer/obj/x86
+CordisMcsClient/Source/Cordis.MCS.Client/obj/
