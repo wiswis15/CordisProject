@@ -30,7 +30,7 @@ Build all the projects from Visual studio. All of them shall build ok.
 3-Open local browser and use http://127.0.0.1:3000/    : you shall have grafana welcome page  
 
 ### Starting the solution on simulation Mode
-1-Start the MCDServer application(either from the command line either from VS)  
+1-Start the MCDServer application(either from the command line either from VS) (Remark: on windows, proabably needs to start with admin privileges).
 2-Start MCDBackend (either from the command line either from VS)  
   At this stage, the backend is receiving data and saving them into the database.  This can be seen in the console consoles.  
 3-Open Grafana browser, connect to the MYSQL server and add the database cordisvariabledb  
