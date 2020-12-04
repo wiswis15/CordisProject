@@ -78,6 +78,7 @@ namespace MCDBackend
             if (_mcsPartVariable == null || _mcsPartValue == null)
             {
                 log.Fatal("Unable to get partvariable and/or partvalue values from MCS.");
+                log.Fatal("Please make sure the MCSServer is up and running, and reachable!");
                 return false;
             }
 

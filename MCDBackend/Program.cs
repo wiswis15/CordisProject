@@ -42,6 +42,9 @@ namespace MCDBackend
                 _inputFilename = args[0];
             }
 
+            //Number of variables
+            int numberOfVariables = 0;
+
             // Read XML file
             log.Info("Loading configuration from " + _inputFilename);
             _config = ConfigFileParser.ParseConfigFile(_inputFilename);
@@ -62,6 +65,7 @@ namespace MCDBackend
                     if (variableObject.Initialize())
                     {
                         _variableList.Add(variableObject);
+                        numberOfVariables++;
                     }
                     else
                     {
@@ -89,6 +93,18 @@ namespace MCDBackend
             {
                 variableObject.StartTimer();
             }
+
+            // variable list is empty -->something went wrong, mostly the server has not started yet or bad connection
+            if (numberOfVariables==0)
+            {
+                log.Fatal("No variables initiated, is the MCSServer up and running??");
+                log.Fatal("Application needs to shut down!");
+                log.Info("Please Press any key");
+                Console.ReadKey();
+                System.Environment.Exit(-1);
+            }
+
+              
 
             // Keep backend running (till quit command is given)
             ConsoleKeyInfo name;
